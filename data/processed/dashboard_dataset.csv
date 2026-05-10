@@ -1,0 +1,1001 @@
+LoanID,Age,Income,LoanAmount,CreditScore,InterestRate,DTIRatio,Risk_Category,DefaultStatus,Income_Segment,Loan_Size_Category,Customer_Age_Group,Compliance_Status
+I38PQUQS96,56,85994.00,50587.00,520,15.23,0.44,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+HPSK72WA7R,69,50432.00,124440.00,458,4.81,0.68,"High Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+C1OZ6DPJ8Y,46,84208.00,129188.00,451,21.17,0.31,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+V2KKSFM3UN,32,31713.00,44799.00,743,7.07,0.23,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+EY08JDHTZP,60,20437.00,9139.00,633,6.51,0.73,"Low Risk",0,"Low Income","Small Loan","Senior Customers",Compliant
+A9S62RQ7US,25,90298.00,90448.00,720,22.72,0.10,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+H8GXPAOS71,38,111188.00,177025.00,429,19.11,0.16,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+0HGZQKJ36W,56,126802.00,155511.00,531,8.15,0.43,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+1R0N3LGNRJ,36,42053.00,92357.00,827,23.94,0.20,"Low Risk",1,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+CM9L1GTT2P,40,132784.00,228510.00,480,9.09,0.33,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+IA35XVH6ZO,28,140466.00,163781.00,652,9.08,0.23,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+Y8UETC3LSG,28,149227.00,139759.00,375,5.84,0.80,"High Risk",1,"High Income","Medium Loan","Young Customers","Policy Exception"
+RM6QSRHIYP,41,23265.00,63527.00,829,9.73,0.45,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+GX5YQOGROM,53,117550.00,95744.00,395,3.58,0.73,"High Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+X0BVPZLDC0,57,139699.00,88143.00,635,5.63,0.20,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+O5DM5MPPNA,41,74064.00,230883.00,432,5.00,0.89,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+ZDDRGVTEXS,20,119704.00,25697.00,313,9.63,0.28,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+9V0FJW7QPB,39,33015.00,10889.00,811,13.56,0.66,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+O1IKKLC69B,19,40718.00,78515.00,319,14.00,0.17,"Low Risk",1,"Middle Income","Medium Loan","Young Customers",Compliant
+F7487UU2BF,41,123419.00,161146.00,376,16.96,0.39,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+7ASF0IHRIT,61,30142.00,133714.00,429,15.58,0.65,"High Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+A22KI1B6SE,47,146113.00,100621.00,419,9.32,0.38,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+1MUSHWD9TW,55,132058.00,130912.00,583,5.82,0.47,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+LXK7UEMLK0,19,118989.00,123300.00,528,15.29,0.22,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+995RE1TIB4,38,56848.00,168918.00,468,19.10,0.22,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+D17PDP8LBL,50,81649.00,78193.00,839,21.41,0.50,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+C35RYEXWJ0,29,114651.00,197648.00,343,21.07,0.19,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+G8AIMX5E52,39,17633.00,167105.00,514,7.86,0.66,"Low Risk",1,"Low Income","Large Loan","Middle Age Customers",Compliant
+BJNLQ0H95H,61,62519.00,29676.00,462,23.91,0.12,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+YIGLFWKNH5,42,141412.00,197764.00,580,10.18,0.19,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+GAA8OQN796,66,39568.00,58945.00,604,6.67,0.10,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+P3EX8G0AYT,44,100284.00,225403.00,551,18.77,0.17,"Low Risk",1,"High Income","Large Loan","Middle Age Customers",Compliant
+KD97QJJFD8,59,102292.00,55337.00,840,16.11,0.44,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+O8G74YT5W3,45,85673.00,48773.00,787,22.42,0.82,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+1CW0O8WTLF,33,92448.00,66282.00,607,11.31,0.43,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+PBQO9E6L9D,32,102178.00,179279.00,669,14.98,0.78,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+8NTWNU4HTY,64,102463.00,218433.00,506,9.23,0.86,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+ASYFXCP452,68,85409.00,44772.00,540,2.96,0.17,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+4857M8R0YI,61,26470.00,19818.00,695,20.00,0.69,"Low Risk",0,"Low Income","Small Loan","Senior Customers",Compliant
+5FENBP2UV8,69,87295.00,16281.00,707,13.82,0.75,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+EGBQ6R80VB,20,139321.00,43049.00,458,7.16,0.53,"High Risk",1,"High Income","Small Loan","Young Customers",Compliant
+RT511ZZNF2,54,21487.00,84115.00,386,20.89,0.78,"High Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+KAC7P2RE1X,68,111716.00,215851.00,747,18.84,0.40,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+XG5WPXX0TY,24,105732.00,33013.00,400,15.64,0.48,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+2XUD7N4OJ1,38,73117.00,221628.00,639,13.05,0.56,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+2O7VM6EN0D,26,125268.00,67671.00,795,11.42,0.30,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+Z7UFZIW3MK,56,24796.00,37657.00,498,8.20,0.73,"High Risk",0,"Low Income","Small Loan","Senior Customers",Compliant
+RSP1YD80Z7,35,95963.00,77552.00,560,6.63,0.86,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+AFJTOPMFJV,21,16170.00,66883.00,505,4.41,0.42,"Medium Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+LMQOF5PTTT,42,143244.00,240591.00,393,23.15,0.16,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+06Q275JKQB,31,103515.00,220032.00,369,22.36,0.81,"High Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+N3KDA4UM9K,67,100949.00,145906.00,439,3.74,0.58,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+130U8TZ0HW,26,92153.00,214064.00,634,2.34,0.32,"Medium Risk",0,"High Income","Large Loan","Young Customers",Compliant
+E9NX4IRVSU,43,70113.00,215064.00,657,6.00,0.76,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+963HFKM3CT,19,24611.00,41605.00,417,15.11,0.59,"High Risk",0,"Low Income","Small Loan","Young Customers",Compliant
+QHPWTGMTU8,37,37173.00,234059.00,455,15.12,0.74,"High Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+0T53GR64AD,45,31137.00,158128.00,351,5.40,0.25,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+DSOB0M5AQ4,64,49565.00,245711.00,655,23.41,0.37,"Medium Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+PWVQRNYJGA,24,31644.00,75317.00,737,5.65,0.51,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+0VEK3DDM69,61,49113.00,222046.00,771,22.80,0.24,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+LCBMJZGE8D,25,85814.00,227368.00,669,19.11,0.75,"Low Risk",1,"High Income","Large Loan","Young Customers",Compliant
+Z3WJUIM1DZ,64,110606.00,137139.00,669,18.01,0.66,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+YQKG397DX3,52,76136.00,145318.00,775,12.44,0.15,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+HRVBDX8JP7,31,82461.00,222343.00,680,15.70,0.36,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+XPEW5QYJ3S,34,37082.00,175274.00,694,15.59,0.38,"Medium Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+092M7Z5Z6M,53,149401.00,245626.00,534,15.82,0.25,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+ZOPZLF57NR,67,77135.00,159839.00,529,4.14,0.41,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+648L7QUFVO,57,34830.00,63072.00,416,20.34,0.45,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+ZY51VR44DK,21,142860.00,238718.00,318,13.06,0.36,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+R8P5YIW07D,19,20236.00,165086.00,411,11.49,0.30,"Low Risk",0,"Low Income","Large Loan","Young Customers","Policy Exception"
+MZRL2WMB52,23,17142.00,110469.00,802,12.23,0.71,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+2PZTROA9LL,59,60000.00,117371.00,305,3.37,0.58,"High Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+T4DU8L04DL,21,142986.00,142571.00,674,19.35,0.56,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+NAJL3RHHY2,46,59079.00,122293.00,585,20.25,0.15,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+NGTYRE2V61,35,118725.00,169932.00,750,7.86,0.37,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+5KCTUT4OSE,43,130625.00,17462.00,303,17.91,0.65,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+94DS7MC3PV,61,49191.00,93324.00,487,2.65,0.25,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+TQ5PDEYD4Y,51,46887.00,119386.00,730,17.44,0.47,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+OV5QU0UMJ0,27,23574.00,10480.00,579,3.46,0.86,"Low Risk",0,"Low Income","Small Loan","Young Customers",Compliant
+52V7YG8XKT,53,49335.00,187180.00,750,18.31,0.58,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+43Z22DZB7Z,31,143837.00,193310.00,658,14.15,0.45,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+HZFO5XLXGK,48,99977.00,27219.00,683,3.12,0.75,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+SQ3MA71EVN,65,80770.00,217916.00,574,20.97,0.49,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+QTEXRYSK63,32,46238.00,134941.00,421,12.32,0.50,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+42SRSHU039,25,24742.00,219541.00,719,15.21,0.60,"Low Risk",1,"Low Income","Large Loan","Young Customers",Compliant
+LVWN4GR2Y4,31,56982.00,223728.00,692,17.93,0.72,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+VFVJ0MCK4P,40,137937.00,169513.00,542,14.38,0.57,"Low Risk",1,"High Income","Large Loan","Middle Age Customers",Compliant
+29VUH2UAD0,57,109000.00,17316.00,453,3.72,0.58,"High Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+E0CNQK8RTK,38,59243.00,217215.00,618,23.96,0.43,"Medium Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+XEJB8PXRYA,33,35815.00,166586.00,351,14.96,0.87,"High Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+I7Z9O3RG38,62,138569.00,248333.00,453,14.10,0.44,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+F6NXXQU3B2,35,90042.00,159330.00,659,4.28,0.76,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+CL2BS2EEJE,64,93741.00,232727.00,747,24.29,0.62,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+OWJIF9S2PZ,41,114694.00,106334.00,319,14.42,0.18,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+0NSEXRKRYQ,43,108283.00,84484.00,371,20.56,0.49,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+4JQAOGI6A8,42,30200.00,182868.00,517,16.87,0.51,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+D51F6APQ5Y,62,25274.00,134289.00,701,13.01,0.57,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+O367DPWKN4,58,55299.00,37681.00,361,24.10,0.30,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+9VNZFS3GD3,46,100459.00,174884.00,578,22.29,0.69,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+R7HVEB6PCN,32,74554.00,89606.00,656,15.78,0.16,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+XL0LIO7XMD,62,47383.00,13109.00,553,19.57,0.42,"Medium Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+UBVMQUAJS3,18,148123.00,243038.00,734,10.29,0.71,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+Y7KTR7E8CU,42,128414.00,79538.00,346,2.02,0.76,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+YH36D287WZ,24,40782.00,172030.00,585,2.51,0.64,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+BYEI0CTP7P,26,28436.00,208194.00,584,12.71,0.58,"Low Risk",0,"Low Income","Large Loan","Young Customers",Compliant
+WRIDPTL1IH,41,145047.00,34875.00,811,21.59,0.83,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+NJSFL1EQ3Z,18,93993.00,132471.00,481,17.70,0.11,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+SZSNPTKVFY,61,137295.00,81022.00,447,8.14,0.24,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+ICJHINNJXT,25,29782.00,223983.00,691,12.35,0.64,"Low Risk",0,"Low Income","Large Loan","Young Customers",Compliant
+UO61QYA4L7,41,39811.00,85372.00,607,4.02,0.22,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+KM6ZD3M0DG,28,42063.00,50451.00,457,9.80,0.17,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+SPKAPYGMVS,68,21711.00,230251.00,616,22.46,0.82,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+3UAK0OGDT1,34,103746.00,229636.00,551,14.38,0.28,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+MCCQCLDHKW,25,66282.00,242287.00,564,4.76,0.60,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+OWLIUEFU4I,52,132499.00,84549.00,315,21.42,0.47,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+XOBT7E4VYB,52,132751.00,31372.00,436,23.50,0.15,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+GXVEJUYTQ2,50,22773.00,174149.00,533,9.90,0.70,"Low Risk",1,"Low Income","Large Loan","Middle Age Customers",Compliant
+M7E1KZL0L8,22,75994.00,113223.00,737,14.46,0.86,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+ULAVO1GRP4,59,146423.00,175145.00,372,21.64,0.31,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+50JOLH9T97,56,106429.00,80930.00,394,11.51,0.31,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+H0HG4OWMLS,58,45015.00,103293.00,834,11.08,0.51,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+AE54LAVDVC,45,57096.00,148064.00,339,21.04,0.35,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+899BMZ8CH5,24,101452.00,155664.00,415,19.62,0.19,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+ZR3HIDE7XQ,26,58478.00,174639.00,668,13.11,0.88,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+OML8B8OJQB,25,80893.00,141331.00,748,2.25,0.83,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+0JN9JTXOWV,29,141484.00,150284.00,715,23.05,0.86,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+KY4HK9SQAG,51,112897.00,216797.00,479,14.12,0.10,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+4W5AUHLU1R,50,146992.00,52331.00,696,22.58,0.79,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+CI61QKR9RM,65,92816.00,235363.00,751,5.79,0.28,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+LV5MPA24SM,40,60596.00,158698.00,842,10.21,0.51,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+K23H0BRUJ2,41,148629.00,111722.00,769,19.46,0.18,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+PNRE399EUV,54,74954.00,242196.00,635,9.05,0.40,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+TNHNNVH282,52,96409.00,144564.00,577,21.20,0.65,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+4066OHTN9A,61,134076.00,140885.00,602,22.89,0.84,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+F50KOUWNHK,57,97979.00,146880.00,497,12.95,0.65,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+2E09521FTY,39,91414.00,104927.00,811,3.35,0.33,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+1OPNDQAP6K,44,29635.00,164946.00,714,9.55,0.31,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers",Compliant
+SP0IBH947I,52,78031.00,140988.00,578,2.69,0.20,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+1GGX34200H,18,60357.00,130636.00,396,4.22,0.76,"High Risk",0,"Middle Income","Medium Loan","Young Customers","Policy Exception"
+MRHHRC7YA8,52,107173.00,14655.00,513,9.56,0.36,"Medium Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+900DYE7RYV,54,64517.00,92300.00,842,2.54,0.52,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+GO6UHAQVOW,64,74632.00,130550.00,343,11.95,0.86,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+72E5CLNNU7,31,105016.00,75374.00,522,20.65,0.28,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+RXQM3LQGM3,20,16229.00,230359.00,335,22.98,0.10,"Low Risk",0,"Low Income","Large Loan","Young Customers","Policy Exception"
+FLPKETTCVD,18,81192.00,41548.00,601,17.71,0.89,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+YWBRAUHH26,22,108033.00,184054.00,499,16.77,0.28,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+30QPADCLNB,43,89715.00,189510.00,380,18.87,0.61,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+IZ1U30RHN3,31,142837.00,24067.00,375,11.85,0.14,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+QCYED60ICM,56,77101.00,91461.00,640,16.82,0.84,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+EOHEYN4I4X,44,73511.00,164865.00,566,2.33,0.56,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+47H6KY9RBH,26,78940.00,119094.00,627,11.40,0.54,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+973LRTRZKE,32,110549.00,89154.00,520,24.31,0.66,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+LRD1ETMYIL,32,29815.00,130015.00,528,21.53,0.48,"Medium Risk",1,"Low Income","Medium Loan","Middle Age Customers",Compliant
+GK31V3VLJQ,43,44236.00,74159.00,786,10.76,0.36,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+ORH9OYKX2N,59,28301.00,108810.00,524,6.68,0.39,"Medium Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+IQM8AJSZYK,30,58104.00,145388.00,449,23.68,0.64,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+9YIRALDM3B,68,105572.00,244549.00,489,13.84,0.90,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+EZRDMRA8OP,49,92500.00,68622.00,439,20.72,0.56,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+974G1CCY9R,56,38102.00,74817.00,401,8.49,0.67,"High Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+RN6RW53ZQE,66,97972.00,153562.00,666,16.98,0.80,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+AK528U4ZW4,69,126838.00,221077.00,818,23.15,0.37,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+05V6LGJBRI,49,133879.00,219533.00,841,8.82,0.30,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+Y8RHI7QN52,21,110519.00,245997.00,406,22.18,0.42,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+BH7DDBRX3I,47,116392.00,33750.00,508,23.30,0.26,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+XISXO34R9Z,54,65186.00,159843.00,743,14.36,0.23,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+L4ARSLMVUQ,40,78286.00,136444.00,580,19.22,0.51,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+2B753O9XXP,56,141454.00,142537.00,669,18.68,0.44,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+PEGQMBD1XA,62,25124.00,219669.00,749,5.46,0.48,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+7ILO78BUL8,32,32363.00,126320.00,620,13.96,0.61,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+XZNLCRSLA8,60,72904.00,162983.00,536,8.40,0.37,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+PY0C08S9G2,46,15192.00,152778.00,734,22.42,0.47,"Low Risk",1,"Low Income","Large Loan","Middle Age Customers",Compliant
+D8OU9UW3PY,53,30295.00,137613.00,375,10.78,0.15,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+WAJMTRP02T,30,119334.00,147716.00,787,12.10,0.88,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+7ECS04LJOE,49,134889.00,86160.00,592,13.22,0.32,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+I660EVK7XL,24,49119.00,123531.00,541,7.55,0.52,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+4DJJBLKSF1,68,142277.00,79391.00,316,13.76,0.88,"High Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+D4DEUHOODO,39,99269.00,232619.00,720,11.86,0.19,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+8T3I0PTR35,45,107954.00,100080.00,609,16.02,0.29,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+8VKPI6WZUY,19,25678.00,134161.00,705,21.18,0.20,"Low Risk",1,"Low Income","Medium Loan","Young Customers",Compliant
+BB05YF5VU8,59,17550.00,227024.00,795,4.52,0.22,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+L5KGFM6KRD,62,58724.00,92125.00,674,20.87,0.26,"Low Risk",1,"Middle Income","Medium Loan","Senior Customers",Compliant
+7PJRT499HT,23,83406.00,139957.00,424,11.49,0.72,"High Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+4FM4RPFT35,45,54095.00,34835.00,770,15.15,0.80,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+VIYL3A8ETP,45,148252.00,210244.00,695,15.10,0.34,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+7LZ2WWR8FO,61,52904.00,223407.00,407,22.35,0.10,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+404GO524QL,61,96822.00,230960.00,611,21.22,0.73,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+4QNP5FN0KW,37,131836.00,22699.00,657,24.04,0.71,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+5XP11EJ4OW,47,37882.00,138883.00,398,7.92,0.69,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+Q9ED7Z9QQ7,28,72464.00,129521.00,739,17.45,0.54,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+SVRI62LA6K,45,15926.00,93334.00,777,5.95,0.12,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+0Q0JD83E7X,42,38024.00,106385.00,763,2.12,0.62,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+WM2RJ85VV9,56,145071.00,31141.00,480,5.42,0.19,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+HJJLEQLFR9,50,19296.00,91875.00,826,24.32,0.36,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+TGCDEXVJNP,18,146668.00,215629.00,517,5.24,0.77,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+F859B4PZJ3,44,114043.00,198339.00,406,15.74,0.65,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+F74TVB524O,69,19459.00,29148.00,726,5.27,0.66,"Low Risk",0,"Low Income","Small Loan","Senior Customers",Compliant
+DBHLZGZGEN,30,87178.00,85001.00,310,16.66,0.55,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+RM7KE57X57,58,94033.00,159468.00,815,18.74,0.33,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+WPLDA8SGTK,20,102312.00,17975.00,797,22.63,0.78,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+EMQV99WWV5,56,107124.00,249352.00,317,18.13,0.86,"High Risk",1,"High Income","Large Loan","Senior Customers","Policy Exception"
+AIBB50PEYS,23,84774.00,120912.00,749,23.68,0.16,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+7U1KVN9YIY,25,127103.00,24296.00,626,20.05,0.32,"Medium Risk",0,"High Income","Small Loan","Young Customers",Compliant
+8FNOFSM2S6,44,101997.00,151516.00,708,18.06,0.28,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+UK4OH3F6QS,26,47398.00,155340.00,334,15.39,0.75,"High Risk",1,"Middle Income","Large Loan","Young Customers","Policy Exception"
+RBKMH2P80V,54,106956.00,87462.00,434,23.19,0.25,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+G18UJDAD8B,50,59215.00,43116.00,381,6.84,0.20,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+H6BAD08LFV,68,17751.00,152696.00,811,17.25,0.52,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+GY0VKFDZON,59,135003.00,121490.00,552,2.36,0.67,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+L2BN792E9M,61,109471.00,10327.00,347,14.48,0.51,"High Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+Z9KDFOYV3T,41,93059.00,112026.00,413,18.55,0.45,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+T94W6YTVZJ,32,125786.00,239618.00,338,7.99,0.79,"High Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+94VKUFC3MR,49,51396.00,84501.00,760,15.88,0.17,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+7W5MIEZ2BW,49,124296.00,120730.00,506,2.11,0.53,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+57CX89FWKM,41,62578.00,112054.00,740,21.07,0.60,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+M6UXZ003BD,58,117968.00,156263.00,583,17.65,0.23,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+NJEZ1ZGWB3,69,86549.00,135912.00,721,2.77,0.52,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+MTTYTITC6J,66,69939.00,193171.00,672,9.70,0.24,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+FSS0W8HEJJ,66,142442.00,229406.00,464,23.12,0.41,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+6Q9J4TEH24,69,142700.00,25379.00,494,4.33,0.66,"High Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+0JKVIXOD1N,29,38153.00,130923.00,470,4.67,0.38,"Low Risk",0,"Middle Income","Medium Loan","Young Customers","Policy Exception"
+UNFE1WCC95,56,22082.00,61460.00,624,2.88,0.72,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+4M507PA1AJ,19,91000.00,60224.00,730,11.66,0.59,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+SA71L2XLZ2,20,101465.00,179673.00,366,24.03,0.60,"High Risk",1,"High Income","Large Loan","Young Customers","Policy Exception"
+3WR67VJBBY,66,100328.00,141500.00,831,13.95,0.56,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+TBMI7SD09H,54,118126.00,211925.00,337,20.76,0.61,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+N0WIU7YWOG,66,99582.00,128774.00,671,15.25,0.18,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+HOMRI5ZWJN,34,117943.00,231285.00,337,14.66,0.90,"High Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+UHK74046UA,66,70357.00,54481.00,610,6.22,0.49,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+IO1N5FGCMX,19,70339.00,168776.00,528,13.64,0.17,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+TD3H5506HU,19,67895.00,12136.00,308,8.46,0.72,"High Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+SGRERRY2X1,45,55996.00,174034.00,742,14.13,0.56,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+F7VA6M2020,40,45622.00,115010.00,716,9.58,0.37,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+NND997EK0D,54,77280.00,194794.00,383,3.98,0.74,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+KMIB8RSNMG,49,30010.00,67612.00,550,12.41,0.84,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+HZBMWBJOU9,50,56946.00,6451.00,645,6.98,0.10,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+2JR521RD87,18,139771.00,118684.00,401,5.43,0.13,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+HP7CV18G5X,36,74307.00,66303.00,433,19.10,0.82,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+GQUEEYR3RO,19,97219.00,189133.00,663,15.05,0.14,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+2MUHBYI7YY,61,26051.00,196898.00,367,23.65,0.89,"High Risk",0,"Low Income","Large Loan","Senior Customers","Policy Exception"
+IXFXTJTXZO,43,65835.00,212489.00,650,3.88,0.22,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+75Y4RGIRH5,49,148568.00,110680.00,578,21.22,0.69,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+P3JHU21VK8,23,117261.00,214837.00,596,4.10,0.33,"Medium Risk",0,"High Income","Large Loan","Young Customers",Compliant
+DWHBFMGFAS,49,39184.00,142572.00,533,9.43,0.35,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+MVQQHG640L,21,90751.00,68033.00,419,8.73,0.39,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+33CUQMJVU2,28,15223.00,101750.00,593,24.41,0.13,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+H2L9D20SWT,34,75449.00,214723.00,466,13.31,0.61,"High Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+TFCEYQEDOZ,55,37451.00,43127.00,478,7.59,0.56,"High Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+RK0U8UC2F0,41,87219.00,169189.00,401,17.73,0.73,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+SU2M43X56S,22,51990.00,119516.00,412,4.27,0.53,"High Risk",0,"Middle Income","Medium Loan","Young Customers","Policy Exception"
+V55SRRDCV0,69,97532.00,199859.00,375,11.31,0.54,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+50N5EPDP3C,51,84734.00,188838.00,655,7.85,0.77,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+ZTUHI6CYPN,23,74090.00,205698.00,571,16.93,0.62,"Low Risk",1,"High Income","Large Loan","Young Customers",Compliant
+OFO0NGL3JH,39,138971.00,140639.00,666,23.26,0.86,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+8E1PRPFG2M,28,85129.00,180135.00,809,10.89,0.70,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+U6PDHQHG5M,65,41931.00,5769.00,849,7.70,0.68,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+B3HP1RXJD2,33,140328.00,69711.00,826,23.01,0.75,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+Z0ASQQ05HW,50,36135.00,185019.00,629,20.85,0.88,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+58XA8SA33N,26,19860.00,79822.00,788,14.71,0.43,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+15O5S6PVTD,23,25382.00,143017.00,399,10.46,0.74,"High Risk",0,"Low Income","Medium Loan","Young Customers","Policy Exception"
+V0QRIPQBZF,33,132284.00,178353.00,317,2.16,0.58,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+UY6UL28N11,46,149269.00,112616.00,376,16.21,0.33,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+FZTU40EMDO,20,18625.00,58127.00,643,12.12,0.55,"Low Risk",1,"Low Income","Medium Loan","Young Customers",Compliant
+4H3Z8AT19F,37,109407.00,141444.00,332,14.12,0.33,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+DGIFFYF59S,53,112739.00,79572.00,475,21.33,0.13,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+JR6FGLX96O,36,125253.00,99149.00,809,8.71,0.13,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+YNOFR9HOUA,43,135815.00,117606.00,382,12.82,0.50,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+03IJ9D5QLL,20,109299.00,237498.00,720,23.51,0.63,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+YUSOXYNZ8S,36,36766.00,238080.00,841,10.38,0.30,"Low Risk",1,"Middle Income","Large Loan","Middle Age Customers",Compliant
+RVA3MZFPQA,37,110938.00,104428.00,352,12.90,0.84,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+4P405KE31H,49,20550.00,195705.00,466,18.72,0.60,"High Risk",0,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+4KO4LE1OWF,24,99820.00,100491.00,328,11.46,0.64,"High Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+UQ3W3I5GCH,69,50325.00,194550.00,469,11.84,0.55,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+7KDYZK40S5,58,90691.00,58855.00,614,14.19,0.61,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+VLNKDNKOM7,50,29876.00,203759.00,342,15.41,0.26,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+VRV15ZOM5H,57,120684.00,69420.00,642,5.60,0.17,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+US2AZ8WC6K,56,49119.00,138981.00,678,10.58,0.11,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+9RCV0EWLIA,35,127186.00,91246.00,806,6.69,0.73,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+QNWQWY4A8L,57,23764.00,78444.00,315,24.61,0.56,"High Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+4T9VELCA7Z,18,148711.00,221638.00,477,19.44,0.90,"High Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+WET49DIZL2,28,38051.00,210838.00,595,4.98,0.60,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+UZUW6Q652D,45,146321.00,148088.00,304,18.69,0.50,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+7RF5Y4XJY6,42,44991.00,63637.00,312,7.54,0.14,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+KH9NVRPWC7,67,27623.00,71510.00,680,17.82,0.67,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+67S6C7KRDL,40,58540.00,127266.00,476,15.66,0.33,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+4HCM96RL9M,48,51719.00,248465.00,339,9.41,0.46,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+B79XUKEJEY,47,34638.00,136472.00,754,20.06,0.15,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+MV1EDKD8F2,59,49164.00,162916.00,530,15.52,0.57,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+UTY71M1X1F,52,139946.00,184340.00,499,19.53,0.36,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+RIWF6WCOK0,24,83151.00,234323.00,324,9.38,0.21,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+C9HJ0TLWH0,33,60484.00,116501.00,546,22.56,0.39,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+CD49UF1ITV,43,56029.00,237121.00,518,22.24,0.38,"Medium Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+3QELBX3NIS,65,127576.00,205024.00,461,11.90,0.73,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+L6KHAI5B84,69,16945.00,167105.00,396,5.78,0.87,"High Risk",0,"Low Income","Large Loan","Senior Customers","Policy Exception"
+0N6Q6Z8IT5,66,126029.00,11864.00,787,10.72,0.76,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+UN4QK8ABJE,19,92790.00,52133.00,815,14.88,0.11,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+FOMH6E9WNI,18,94495.00,194108.00,626,18.03,0.21,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+1ARY4VJOSS,65,60298.00,97181.00,399,4.21,0.32,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+YC80M0Q6VF,29,21718.00,150488.00,816,7.83,0.21,"Low Risk",0,"Low Income","Large Loan","Young Customers",Compliant
+FTBPDPK0XW,22,17957.00,64185.00,659,24.28,0.30,"Medium Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+1FREX4V8KS,54,110964.00,63551.00,641,12.37,0.52,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+BN2C061O2L,49,22881.00,151191.00,823,12.17,0.48,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers",Compliant
+Z4I4FE6YJT,26,27633.00,130243.00,518,23.74,0.63,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+ABQ83F1XM9,58,122515.00,180859.00,698,3.40,0.33,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+57DZGY1KNU,52,129391.00,222103.00,402,2.92,0.80,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+7J7WVP54KG,36,118282.00,106919.00,718,13.88,0.40,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+FDRMZIR7VN,65,30370.00,170883.00,648,9.49,0.67,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+6X4KN74CUM,33,100822.00,249620.00,592,7.93,0.69,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+4XCZD7SC31,20,143978.00,42768.00,559,12.47,0.69,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+TLRE6XAPIG,37,98252.00,76613.00,586,21.60,0.74,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+810DQ8HV4Y,41,83488.00,73238.00,324,6.30,0.40,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+7YGZ56I3Q7,50,90093.00,124701.00,331,4.39,0.47,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+DSFBKFPF4A,41,147188.00,136447.00,517,7.01,0.38,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+9ISJNC8I6T,69,109647.00,130258.00,644,8.12,0.50,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+THL5P234XY,28,123690.00,163015.00,435,23.05,0.16,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+QJP0UMLML1,66,93229.00,196998.00,677,13.72,0.63,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+X6IA0SWSSS,25,111552.00,46936.00,777,7.28,0.14,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+S33KHLZ8P1,53,133523.00,157184.00,569,19.32,0.10,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+QNCUACHK6D,55,138123.00,129240.00,773,17.53,0.84,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+NETCQSCB6K,57,50597.00,24961.00,399,24.80,0.34,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+QPTCLAMDFC,37,113145.00,74341.00,598,14.59,0.30,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+GBV6T5PIEK,52,95299.00,81939.00,444,3.23,0.79,"High Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+VLISBA0W29,65,46626.00,140364.00,406,3.55,0.62,"High Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+98KYOHH8CF,42,75794.00,14788.00,552,10.96,0.63,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+OF97S6UIZS,52,125986.00,138424.00,745,14.46,0.88,"Low Risk",1,"High Income","Medium Loan","Senior Customers",Compliant
+TBBK3G20PZ,42,33131.00,71783.00,422,13.99,0.84,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+J5J91CEJ95,46,32886.00,86815.00,341,19.71,0.17,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+GNLPIB2439,35,110748.00,196239.00,379,21.51,0.26,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+H1X226XJUD,63,64784.00,123091.00,672,17.20,0.33,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+NESELSF1WS,35,59929.00,182885.00,691,17.82,0.80,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+9UTAXWAVTA,19,126702.00,50493.00,589,17.21,0.21,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+0YB7KA6Z8G,52,40949.00,89073.00,371,3.69,0.66,"High Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+8FPIOAZAFS,33,80939.00,97406.00,715,16.61,0.86,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+6QIELUAMDC,58,19553.00,179459.00,364,2.72,0.78,"High Risk",0,"Low Income","Large Loan","Senior Customers","Policy Exception"
+7DZDHKS1RQ,53,68103.00,121907.00,681,8.24,0.79,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+AXUBO85V9M,50,61012.00,146528.00,423,24.35,0.74,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+9LQUUTAF6Q,21,83269.00,16848.00,747,7.24,0.74,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+Q2L0W607RK,50,66861.00,119251.00,839,20.10,0.69,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+J7C6VENGA7,31,94001.00,186700.00,808,9.97,0.41,"Low Risk",1,"High Income","Large Loan","Middle Age Customers",Compliant
+48501I4578,38,90026.00,85781.00,728,19.95,0.70,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+5IAUOSF3ZU,65,20013.00,227242.00,730,21.93,0.67,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+J9J5PZE92M,37,116949.00,42529.00,662,23.12,0.16,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+8HGB121YYI,25,43470.00,188375.00,490,13.53,0.63,"High Risk",0,"Middle Income","Large Loan","Young Customers","Policy Exception"
+Q1YMT4IWUY,24,64544.00,138247.00,839,14.52,0.31,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+LC9WVW2SDL,20,37722.00,220616.00,473,9.85,0.68,"High Risk",0,"Middle Income","Large Loan","Young Customers","Policy Exception"
+DJDLSGD2YI,34,126552.00,174472.00,812,24.21,0.18,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+Q0HXEFJK17,50,147122.00,139900.00,832,6.21,0.61,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+Z64NH1LZXQ,65,96299.00,51752.00,455,15.43,0.87,"High Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+D1YUL3KAXH,29,76596.00,161843.00,374,19.31,0.21,"Low Risk",1,"High Income","Large Loan","Young Customers","Policy Exception"
+AO53P0PCEZ,68,91446.00,65709.00,653,21.77,0.28,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+MW6NDAPMET,39,67640.00,17812.00,402,14.97,0.41,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+RIUAI581RD,39,135974.00,172423.00,518,13.47,0.39,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+SE7MHSPO2X,63,103486.00,21859.00,676,8.22,0.73,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+JUW6YPEOVY,47,114729.00,152289.00,309,3.84,0.80,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+VG1SKR3YP0,55,144351.00,153788.00,814,16.42,0.55,"Low Risk",1,"High Income","Large Loan","Senior Customers",Compliant
+O9FR23AM59,55,137136.00,196226.00,695,19.07,0.45,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+6MOD5DZRZA,62,82032.00,25481.00,465,4.79,0.62,"High Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+8AYY3APPJO,68,120816.00,49277.00,748,18.69,0.61,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+QPOXF3QGPS,25,138579.00,181181.00,535,5.48,0.17,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+UQ52ZMITZ5,44,123224.00,129392.00,617,6.27,0.59,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+X1GCPKHBBP,44,69372.00,182126.00,376,6.17,0.58,"High Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+TVASVOLDIP,51,122296.00,187785.00,553,7.64,0.16,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+VQV9D7EKI1,38,37962.00,143441.00,679,17.12,0.30,"Medium Risk",1,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+U6881DFDAI,47,46335.00,240597.00,453,4.58,0.21,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+MQL6CEIYV5,50,111010.00,220554.00,475,22.62,0.79,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+Z4K8FVJTDW,45,109740.00,243284.00,711,9.63,0.55,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+DGIJHQ41BM,64,47552.00,212203.00,842,6.91,0.71,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+JLQY46QMF8,50,18906.00,194770.00,635,10.52,0.48,"Medium Risk",1,"Low Income","Large Loan","Middle Age Customers",Compliant
+BLQBPDCVI7,22,28117.00,212209.00,695,22.09,0.15,"Low Risk",1,"Low Income","Large Loan","Young Customers",Compliant
+0ECICJ8862,65,144737.00,114935.00,497,6.16,0.82,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+3TNPUM9KIK,36,101388.00,219183.00,493,13.85,0.56,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+J2KFQ3Z1QI,21,15954.00,103009.00,774,24.54,0.53,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+IQ6UXN3X7W,52,80726.00,106098.00,477,9.76,0.49,"Low Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+IN5F1P7UYH,66,94405.00,99918.00,481,14.82,0.23,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+TGE9NEFFAJ,34,24764.00,161647.00,670,11.14,0.42,"Medium Risk",0,"Low Income","Large Loan","Middle Age Customers",Compliant
+X0ZC1AALCC,61,99528.00,40005.00,374,7.11,0.53,"High Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+E4O8XT853B,45,66737.00,20903.00,413,10.26,0.80,"High Risk",1,"Middle Income","Small Loan","Middle Age Customers",Compliant
+55QXQCYB9R,47,111570.00,105113.00,551,14.17,0.82,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+0A8R85UWUK,46,21073.00,52020.00,773,5.07,0.20,"Low Risk",1,"Low Income","Medium Loan","Middle Age Customers",Compliant
+WQCS32GG05,63,32500.00,224408.00,634,13.39,0.41,"Medium Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+PYW7XIKQTL,23,140592.00,152242.00,737,12.72,0.13,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+20GKG3HQOH,52,89505.00,80340.00,634,20.02,0.50,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+FGNEEH9HCO,58,84901.00,120786.00,761,20.53,0.61,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+IEMKNQEA3E,54,33660.00,227356.00,782,2.64,0.55,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+65N27E7JX1,41,112529.00,145723.00,610,14.42,0.51,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+RCQEEZYJQB,46,54693.00,169555.00,513,4.31,0.19,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+NO2TOJP92Q,66,81801.00,6871.00,646,16.32,0.68,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+1FHSF641UG,63,141579.00,218850.00,360,7.12,0.31,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+IJXE26HG5E,48,93300.00,211605.00,456,10.35,0.32,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+JPFDPWL1WI,52,108825.00,245290.00,653,2.85,0.85,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+SFFFHRLQX8,50,80680.00,175937.00,732,14.50,0.38,"Low Risk",1,"High Income","Large Loan","Middle Age Customers",Compliant
+ELAEGS1DV8,69,53557.00,239096.00,789,16.37,0.15,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+LDQN6ET1GR,38,149975.00,156294.00,611,13.90,0.56,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+2UWRLR5BN0,49,96778.00,68210.00,536,17.97,0.40,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+WJEO3GG4TE,40,99026.00,123150.00,497,15.17,0.87,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+RBGYQW2ZUP,50,33014.00,118574.00,344,19.84,0.84,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+46RZKJH8HL,20,125194.00,154168.00,536,10.27,0.22,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+8K1LTEKDQR,35,73542.00,216167.00,405,16.54,0.38,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+QD624NO72X,42,96539.00,243212.00,837,2.25,0.83,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+BJI9WGPEL4,59,78631.00,16521.00,826,24.81,0.73,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+8TNR6U5NX5,48,95084.00,204381.00,723,23.45,0.32,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+TJ35Z2OW75,20,70614.00,112869.00,506,8.09,0.78,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+RPEK6XYY2E,57,70279.00,13832.00,379,7.92,0.23,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+NR7X7N3A1C,63,38176.00,52978.00,370,15.49,0.84,"High Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+FUNQ99ZWEZ,41,70467.00,49877.00,690,13.80,0.69,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+T54DFCFDI6,67,86990.00,98898.00,521,2.40,0.32,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+38IW19HACO,49,97194.00,6756.00,479,10.20,0.22,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+76Y5ROCVK3,64,34681.00,90593.00,678,2.91,0.21,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+V1K4XN81WS,39,94038.00,166144.00,715,4.73,0.36,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+JBM5T33Q8E,40,96803.00,113636.00,739,10.26,0.31,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+9XL7EALXY1,19,66280.00,130725.00,495,18.09,0.66,"High Risk",0,"Middle Income","Medium Loan","Young Customers","Policy Exception"
+87Y2Q8W9LI,44,117886.00,24397.00,679,4.64,0.64,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+2CM348DR8Y,59,62619.00,199692.00,414,16.92,0.61,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+KSM4UQLRJG,19,37915.00,154326.00,325,2.49,0.74,"High Risk",0,"Middle Income","Large Loan","Young Customers","Policy Exception"
+I0TZWM08O1,43,64266.00,219314.00,320,14.87,0.33,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+SO8H0AQK9A,34,146364.00,243719.00,555,2.37,0.63,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+8ZNCDUVO9N,57,39476.00,74426.00,718,18.14,0.62,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+WOEHAUDOSH,50,86461.00,128874.00,602,20.58,0.75,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+XKFYZZZ8BE,26,48143.00,24854.00,435,21.35,0.33,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+0FIBUHRZK0,60,143376.00,210111.00,307,21.88,0.72,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+A09C1UYOND,65,109863.00,23012.00,802,13.20,0.42,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+8ZVJNGSJ0Y,56,60506.00,226352.00,505,18.01,0.38,"Medium Risk",1,"Middle Income","Large Loan","Senior Customers",Compliant
+V9IKY9LOGX,46,130449.00,100266.00,341,18.26,0.85,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+1JWXFG8KCH,59,139807.00,122762.00,794,10.11,0.36,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+2VXYOAD56R,43,48279.00,118998.00,571,15.03,0.29,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+BLGKON7RQ0,52,89486.00,20728.00,848,12.85,0.59,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+UHKH4NXL4Q,67,123299.00,233487.00,624,6.10,0.18,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+WYXDESH6C2,42,106797.00,242028.00,427,3.81,0.46,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+8J26MNADBX,41,134204.00,189185.00,675,8.55,0.70,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+7TOUMQQO03,30,119467.00,142355.00,630,10.92,0.40,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+82CKAMDOX0,24,131393.00,140113.00,320,11.08,0.34,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+LQZH24AJ6L,53,77583.00,179212.00,420,20.42,0.49,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+0T2CBGI7RB,62,124174.00,80143.00,494,17.19,0.36,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+I7WYK79DCP,37,52295.00,104156.00,514,5.72,0.49,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+7L9XC4389F,18,79231.00,157380.00,776,13.71,0.89,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+ADOCQOMUKZ,25,78243.00,222966.00,616,18.66,0.74,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+Y11NBU2K5Q,63,88324.00,15440.00,501,18.59,0.26,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+I8JAYTQDXL,33,79201.00,217455.00,459,23.06,0.17,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+WIBVLKG16A,31,146965.00,32296.00,687,3.34,0.51,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+B2GE5UH4PL,29,60231.00,108847.00,364,8.76,0.84,"High Risk",0,"Middle Income","Medium Loan","Young Customers","Policy Exception"
+C7AOPY7VOY,68,92660.00,202389.00,824,13.71,0.51,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+DAJBVDU7EC,40,85694.00,50722.00,827,6.01,0.53,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+EGA8S6JSQ7,32,72104.00,55257.00,771,2.25,0.23,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+6E05XIV43Q,45,113966.00,241109.00,769,8.93,0.43,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+CIP26P4SY5,51,65738.00,40224.00,530,18.54,0.16,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+6HIKVQSY6R,19,90296.00,14357.00,541,15.69,0.15,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+08GN4X38KU,49,99272.00,133880.00,425,7.07,0.59,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+MZH5E8WTE8,40,85946.00,20737.00,350,19.67,0.23,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+4ADU9I7PMB,39,120980.00,93703.00,415,20.87,0.12,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+PBJZ9UJY6G,68,145503.00,183534.00,316,18.11,0.44,"Low Risk",1,"High Income","Large Loan","Senior Customers","Policy Exception"
+0ZL7AFN3SZ,42,63648.00,220167.00,684,2.73,0.72,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+AW9CSCN1TJ,39,49381.00,138288.00,348,7.78,0.44,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+FLUPWAVJZ6,39,57128.00,18767.00,328,2.07,0.23,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+3T3RRANZ2B,66,139669.00,215085.00,563,14.31,0.26,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+F5KDTCYQ7O,69,17779.00,115520.00,775,10.37,0.61,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+TCEOP82321,59,110815.00,46704.00,700,17.96,0.51,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+9997EPWAY6,23,92689.00,237221.00,671,8.10,0.60,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+RVJ4WQ45XO,32,18881.00,58835.00,658,8.18,0.65,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+4F1P5OAB06,60,100452.00,170578.00,656,6.88,0.47,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+GYUZSU6E2U,54,55135.00,87353.00,614,21.90,0.49,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+KSDVJBK6WI,50,89376.00,191758.00,774,8.30,0.79,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+IKILYWC4L2,25,101427.00,108922.00,676,21.20,0.39,"Medium Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+ZAPOU56JEB,61,60507.00,220267.00,413,18.30,0.88,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+Z7RNBCJ5HF,61,108552.00,141001.00,341,18.05,0.42,"Low Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+E6HZS2CVK4,22,78113.00,152672.00,648,10.59,0.55,"Low Risk",1,"High Income","Large Loan","Young Customers",Compliant
+HDM7GVM9VU,56,106316.00,73398.00,524,17.30,0.62,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+H28KV9FZ2D,21,78230.00,232830.00,706,9.06,0.56,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+XCUFVHU6C1,23,15814.00,73988.00,628,3.24,0.65,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+VWB3DHVUBT,62,90557.00,19857.00,779,3.91,0.87,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+JQLHCLIRJ8,49,26696.00,90047.00,781,20.74,0.22,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+9BBXTKYWKK,69,36168.00,13701.00,398,11.41,0.20,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+LLE4ZO7VKV,47,140757.00,231436.00,466,13.37,0.47,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+O1TT4Z53A6,64,142060.00,198720.00,793,12.87,0.16,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+PBJGPNOQFE,52,110661.00,30709.00,741,13.57,0.84,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+Y6R0PXFUSJ,57,23490.00,116825.00,421,3.95,0.46,"Low Risk",0,"Low Income","Medium Loan","Senior Customers","Policy Exception"
+XVABFX4BBA,69,130068.00,248637.00,557,6.21,0.43,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+S0OSXNVQRQ,33,63936.00,128106.00,405,13.23,0.33,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+SIL0VK60D9,30,125285.00,172313.00,635,22.31,0.17,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+YA5JWU4W4B,67,122002.00,33590.00,752,11.17,0.80,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+TOVXGIYX69,59,86457.00,150806.00,809,8.98,0.34,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+MOW7KS3FS6,47,137810.00,225508.00,325,13.11,0.13,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+JD3KD78VZ6,36,25188.00,160349.00,452,19.17,0.18,"Low Risk",1,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+QZ0KFP3JNZ,34,24114.00,116312.00,582,3.73,0.70,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+1O3ZJ8ENWF,36,128417.00,45269.00,432,9.11,0.83,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+SOC12VRRCH,45,16293.00,96872.00,420,7.78,0.54,"High Risk",1,"Low Income","Medium Loan","Middle Age Customers",Compliant
+744OP232P2,43,131626.00,54614.00,301,2.72,0.39,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+1XV7YYXGTH,54,96439.00,105579.00,711,5.70,0.47,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+QSU5U973BA,43,121216.00,188407.00,348,15.92,0.39,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+WB27GM6TD7,40,97941.00,117413.00,675,4.58,0.45,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+H0Q37VH6VJ,26,72181.00,10592.00,563,22.72,0.51,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+F0HAO2EHFA,29,103036.00,209538.00,337,19.77,0.46,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+QXU2J51UF8,18,108968.00,49135.00,673,21.54,0.50,"Medium Risk",0,"High Income","Small Loan","Young Customers",Compliant
+P5LXL995UO,18,50554.00,97542.00,806,11.42,0.61,"Low Risk",1,"Middle Income","Medium Loan","Young Customers",Compliant
+1UJPZJ4KJU,64,138307.00,94549.00,532,15.40,0.29,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+2X6DJ0BNFW,51,103065.00,207731.00,672,4.24,0.25,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+E1HN7JAARQ,49,138243.00,232585.00,409,3.51,0.58,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+N9B58VY9IC,65,82639.00,118648.00,574,17.90,0.16,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+Q9JVUI2DDV,42,133685.00,104776.00,590,12.67,0.84,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+FXGTZPSDZK,57,34621.00,156326.00,695,23.46,0.29,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+Q0A86TMJXL,62,71539.00,10118.00,514,11.59,0.44,"Medium Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+6C4RPPAFYT,18,43449.00,185965.00,794,20.46,0.58,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+FCA7IAF2I3,33,109000.00,106103.00,707,15.06,0.42,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+J396ZXPKRH,56,70711.00,187625.00,694,3.87,0.55,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+508DQZY5TG,22,142369.00,190352.00,576,6.52,0.90,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+W1MUFP2YBD,39,25937.00,112770.00,645,16.85,0.67,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+GH70AUTPXF,46,20551.00,210598.00,766,8.69,0.53,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers",Compliant
+KS9672A4BM,20,98066.00,246464.00,778,3.69,0.67,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+Q2IQ1AAXBJ,29,144311.00,188525.00,479,12.17,0.39,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+91A41R49H3,43,37148.00,114770.00,310,6.87,0.60,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+MQKG6FM6V2,33,113732.00,170565.00,517,5.41,0.65,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+V8MHR5EMP1,68,117750.00,49635.00,546,17.70,0.87,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+9G4UDULD2M,54,69821.00,86782.00,636,8.29,0.15,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+JPY5TLOY2L,39,39662.00,186856.00,733,21.85,0.83,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+BVBOHA68Q8,46,148500.00,20127.00,465,17.85,0.51,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+034VZ3QOR6,31,51548.00,243295.00,549,15.76,0.22,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+J80SGCMOT6,45,90560.00,135269.00,405,2.08,0.85,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+57PNK6I3ZO,22,53070.00,240525.00,646,19.45,0.67,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+833MZ80VSV,64,42052.00,206164.00,450,13.11,0.69,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+RQUUZPGSBQ,66,99175.00,221951.00,505,19.28,0.21,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+UT1HLSAQ5L,47,55265.00,128759.00,518,9.07,0.81,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+D4T1AWF4IG,63,139835.00,71477.00,427,6.13,0.69,"High Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+ZQWHZ2XBQ0,69,75574.00,142924.00,546,18.98,0.25,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+55ZQCTXEUT,22,121345.00,180591.00,407,3.40,0.18,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+CT07ZMFVHX,29,91516.00,159970.00,765,13.42,0.20,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+E0BDMWALSS,33,109642.00,90810.00,688,9.34,0.40,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+BX5LWGBMQW,43,15445.00,5175.00,397,10.75,0.25,"Low Risk",0,"Low Income","Small Loan","Middle Age Customers",Compliant
+RZCWRVXT2A,43,127212.00,243049.00,472,5.55,0.13,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+HIQXACHT8N,65,67849.00,175936.00,733,23.72,0.59,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+N26GUE9II3,38,82165.00,46860.00,634,15.52,0.28,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+1WI7TV5RW2,56,119186.00,161509.00,594,22.22,0.37,"Medium Risk",1,"High Income","Large Loan","Senior Customers",Compliant
+XBDGIN9YPI,53,102634.00,114489.00,550,24.43,0.64,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+831K0N1BM2,50,112223.00,38924.00,441,15.81,0.51,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+S9A2TQTC0F,47,40879.00,45804.00,644,20.68,0.78,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+B8U550PER7,54,125249.00,173565.00,599,24.19,0.43,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+UJHLKHHL9Q,40,137087.00,13782.00,558,24.08,0.58,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+BLT4FKJRTI,27,138010.00,142201.00,780,11.44,0.37,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+CUCKB8NOX3,22,128615.00,26066.00,483,13.40,0.73,"High Risk",0,"High Income","Small Loan","Young Customers",Compliant
+FMXE4L82Q2,53,24074.00,238069.00,622,5.34,0.60,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+R3SGXCK9CN,51,39980.00,192286.00,381,18.91,0.17,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+EJEXYSZJ8Y,69,73245.00,185360.00,781,13.00,0.88,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+1QREZ23BFF,48,35548.00,153279.00,835,7.39,0.38,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+VZKZHQQMB2,27,75667.00,149336.00,371,8.49,0.19,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+8603E3J8Y8,36,22808.00,51900.00,380,23.70,0.47,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+YPUUZS41UD,49,135589.00,128230.00,773,22.94,0.39,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+457K8IFCP1,18,143478.00,112408.00,424,24.69,0.77,"High Risk",1,"High Income","Medium Loan","Young Customers","Policy Exception"
+00L8XB9VA9,22,146194.00,43790.00,584,14.21,0.84,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+CCTCSXYB17,62,38824.00,206325.00,707,4.29,0.79,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+ETX4NW3PC3,21,113705.00,190061.00,761,3.67,0.43,"Low Risk",1,"High Income","Large Loan","Young Customers",Compliant
+7326QLBV35,33,42895.00,159752.00,406,13.60,0.12,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+5UZ2JV41PA,41,56866.00,206388.00,411,14.30,0.11,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+MVE5807AMX,33,98652.00,110922.00,486,16.13,0.42,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+FXP50D38B6,19,30510.00,26120.00,776,2.98,0.42,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+GQLAS565WM,66,81362.00,217033.00,506,7.15,0.77,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+W1IJBZSQWS,45,55515.00,133379.00,325,5.80,0.67,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+28ML6Y2JXW,49,149281.00,16351.00,342,22.79,0.24,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+6RP0FWGUN2,44,135454.00,199750.00,384,20.19,0.88,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+SI3JRM9IQB,37,145897.00,90321.00,638,13.84,0.24,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+DH1P21YS6H,41,107066.00,35483.00,507,3.13,0.20,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+NYFNIG01X8,29,70149.00,64556.00,493,5.09,0.24,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+HMBDQXLO9A,67,136234.00,18825.00,807,2.02,0.24,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+UWVH30XKTA,52,56812.00,156829.00,325,11.02,0.63,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+CXUWYRLO78,50,62858.00,58552.00,541,10.55,0.21,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+HIAE5ED85G,50,94591.00,233127.00,783,13.86,0.19,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+AUTV12ZLFQ,68,66045.00,20293.00,521,17.31,0.56,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+MHVBT1OPV0,60,140677.00,65836.00,679,2.37,0.48,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+769U41I5K1,54,90142.00,242756.00,439,17.08,0.71,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+JYQ352CI5V,29,122442.00,57684.00,792,2.18,0.89,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+FRG0J5HRSC,20,20896.00,63256.00,802,18.00,0.48,"Low Risk",1,"Low Income","Medium Loan","Young Customers",Compliant
+QNZ7ASVXI6,18,82127.00,48923.00,686,13.64,0.60,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+ALRVTEC458,50,107508.00,147069.00,720,10.39,0.30,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+MGDT0VXWXZ,57,45872.00,74029.00,423,21.05,0.19,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+6U1SMYZH3L,27,63423.00,43951.00,686,11.83,0.29,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+4XJA4V1WQV,60,76061.00,241499.00,843,15.44,0.28,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+ITBMPGF44I,61,102742.00,211095.00,409,7.37,0.44,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+5O85F7JNVB,46,113832.00,68969.00,802,24.23,0.54,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+S556VJ58WC,30,137123.00,169046.00,758,18.72,0.37,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+CCBQUDUPIY,29,69581.00,157894.00,571,6.25,0.13,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+H200S2P0F0,48,87135.00,144283.00,471,9.95,0.86,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+OCO8IKBYVG,63,91815.00,25013.00,608,21.82,0.45,"Medium Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+54FI4SHNET,19,78365.00,181841.00,409,14.80,0.69,"High Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+CDTJDS08A2,68,140095.00,88870.00,617,22.91,0.37,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+EFVNO5HOVY,67,59176.00,88395.00,558,18.31,0.37,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+MM3IZQEBBS,52,33958.00,247790.00,833,22.60,0.64,"Low Risk",1,"Middle Income","Large Loan","Senior Customers",Compliant
+M02JX7GZD6,40,111741.00,57127.00,762,18.36,0.16,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+22LJK4OLB1,34,78292.00,115782.00,445,3.05,0.27,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+ZS1E6MLAHP,43,49812.00,130024.00,710,5.16,0.52,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+ODED3DOENT,25,26990.00,137843.00,387,15.82,0.58,"High Risk",1,"Low Income","Medium Loan","Young Customers","Policy Exception"
+XBE5RXI6GU,46,111032.00,120563.00,732,14.93,0.41,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+0W7ZNWS7HZ,43,41110.00,60600.00,709,24.85,0.76,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+CXGUDWVGKO,27,115554.00,244213.00,503,13.69,0.39,"Medium Risk",0,"High Income","Large Loan","Young Customers",Compliant
+258432LHBE,43,57436.00,135567.00,363,4.14,0.19,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+SPPOBK9HC9,51,94991.00,18174.00,777,18.17,0.41,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+RIYKPEL1PS,68,101839.00,117792.00,820,24.96,0.42,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+ALPDY58DGC,58,132514.00,177094.00,449,16.72,0.62,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+0XDG6EEKI1,24,36821.00,210620.00,326,16.17,0.18,"Low Risk",1,"Middle Income","Large Loan","Young Customers","Policy Exception"
+F8GW3RDHCB,21,55574.00,86122.00,613,11.10,0.43,"Medium Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+M4YZST8M9E,67,39954.00,128364.00,691,4.08,0.62,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+DNN1KA3WGB,62,80052.00,81994.00,659,23.91,0.34,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+U0GZR4Y0XM,28,123607.00,78506.00,635,19.96,0.65,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+B3H6Z2HVDD,46,43806.00,213229.00,763,17.54,0.59,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+1IK9A6QZ0N,53,119131.00,225852.00,624,5.85,0.31,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+TF81I5EU68,42,107095.00,78860.00,466,14.26,0.17,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+GLEQ0C9CRX,38,25493.00,28060.00,395,23.91,0.18,"Low Risk",0,"Low Income","Small Loan","Middle Age Customers",Compliant
+NCHU1U8D96,53,148934.00,158631.00,519,14.94,0.40,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+XPFVGWK28M,27,83715.00,113194.00,552,18.16,0.70,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+5LLJIBIVHD,54,58091.00,85232.00,535,20.75,0.31,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+P0PRC9Q0FY,26,82611.00,47555.00,574,22.18,0.25,"Low Risk",1,"High Income","Small Loan","Young Customers",Compliant
+91OKTSSAW7,41,57156.00,109996.00,650,6.56,0.82,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+3B3QSC6TT3,52,84353.00,169207.00,785,2.41,0.44,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+SAYW0H738E,66,53116.00,203634.00,594,15.46,0.68,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+P3JUFHO6PK,52,132976.00,200185.00,330,9.33,0.18,"Low Risk",1,"High Income","Large Loan","Senior Customers","Policy Exception"
+IZFNFJP2WB,65,78921.00,98335.00,680,14.58,0.57,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+07XXGWZA9B,53,75317.00,104886.00,657,9.72,0.57,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+ON1QKN5MBF,35,125863.00,245494.00,608,12.56,0.39,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+YP32B8UWBO,66,104133.00,182916.00,817,10.32,0.30,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+M8AYVUZZT9,56,68640.00,206330.00,534,21.46,0.77,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+BPEOQ795UU,49,56133.00,187252.00,638,21.55,0.73,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+2BTWW74DLV,41,35595.00,94372.00,656,12.54,0.15,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+D37U2MYDA4,40,75957.00,74325.00,379,7.92,0.86,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+U67AWK64TW,49,16677.00,87236.00,661,24.43,0.64,"Low Risk",1,"Low Income","Medium Loan","Middle Age Customers",Compliant
+WGTGX6QU9S,54,130717.00,16878.00,382,14.42,0.23,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+9Q9Z7VOGBD,29,57457.00,214600.00,528,10.32,0.79,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+67M6VP4B01,66,104832.00,167876.00,501,3.98,0.74,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+DGC81WU84L,30,113009.00,242225.00,557,5.55,0.44,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+JDKGYHJCTP,40,66871.00,85589.00,476,15.97,0.20,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+C7Y7P7CYSO,42,82659.00,173411.00,352,23.51,0.66,"High Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+F4IHBARHL8,52,53959.00,88207.00,537,7.98,0.42,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+E39T1AYGS6,58,122456.00,248790.00,601,19.65,0.59,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+4K1GK8564R,47,115420.00,66049.00,727,21.22,0.32,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+8W3G2EUIPS,34,139151.00,227923.00,669,18.17,0.82,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+NKHYKL6YT0,66,32738.00,14200.00,688,16.86,0.83,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+WAJ2MSQ7RO,37,114988.00,132196.00,440,23.41,0.30,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+QYY2D0R0Q6,65,50932.00,73127.00,752,21.79,0.57,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+P8GGPE5W74,42,99273.00,70937.00,748,15.43,0.48,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+IOVWQ3LFXE,39,145601.00,249454.00,623,10.70,0.32,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+WXOQ8W4AYG,30,62395.00,138641.00,592,13.52,0.68,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+RS29CL78PB,36,121927.00,47143.00,337,21.31,0.26,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+7S4QDYMBPK,66,54013.00,52620.00,496,10.53,0.71,"High Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+6GAGEK3XRE,53,46050.00,7304.00,676,23.73,0.39,"Medium Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+A85A9QB3J5,29,36131.00,187481.00,313,2.36,0.37,"Low Risk",1,"Middle Income","Large Loan","Young Customers","Policy Exception"
+OG4AN3JO2S,58,58922.00,195636.00,737,3.70,0.84,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+NXJOM07G18,36,39962.00,116209.00,319,16.50,0.51,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+BJNH0T931V,29,103750.00,68870.00,578,4.43,0.53,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+URFB9XJ8CP,26,39647.00,204999.00,486,19.99,0.82,"High Risk",0,"Middle Income","Large Loan","Young Customers","Policy Exception"
+D8HZKLTGO7,24,144827.00,25501.00,833,3.47,0.87,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+A82ZOHCMXD,45,48255.00,82564.00,612,13.12,0.58,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+VY04XKVZDJ,31,51964.00,214730.00,619,2.17,0.41,"Medium Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+KY3S6SI52F,48,43860.00,237626.00,532,15.57,0.49,"Medium Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+504YS9TGBJ,69,131923.00,58692.00,672,24.54,0.12,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+SLMQJ3U599,36,97891.00,79397.00,412,22.22,0.25,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+LTXDVGNKCU,64,55986.00,222806.00,840,14.61,0.74,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+P2G1GXKVGF,33,58386.00,69864.00,485,20.29,0.23,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+62UIBIHXWI,22,134935.00,132709.00,344,4.63,0.50,"Low Risk",1,"High Income","Medium Loan","Young Customers","Policy Exception"
+DBUD6HCECN,52,91007.00,90820.00,664,14.21,0.67,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+PVT2GG3LB1,29,36472.00,227183.00,569,4.47,0.63,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+JFY6OQPWLO,42,121262.00,10353.00,701,6.45,0.65,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+RGHUMMAO3S,69,131703.00,203969.00,602,15.93,0.51,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+MX0JOWEOG8,38,34839.00,38124.00,467,5.62,0.50,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+WTV86PO1XB,53,126663.00,193536.00,741,18.84,0.68,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+NANTEGC9KD,40,103974.00,195994.00,340,22.85,0.30,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+KW4UXZ0CUQ,33,91041.00,119093.00,419,12.81,0.87,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+KTX6LB8L00,56,54021.00,124721.00,308,19.99,0.46,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+XQ2KN1CH7L,62,109877.00,37246.00,477,2.61,0.26,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+TNHWYKIH25,59,110061.00,123452.00,668,11.90,0.59,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+L1QQEUKTSH,56,81015.00,191300.00,834,22.26,0.70,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+B7CM9LCQEH,31,68831.00,138497.00,707,21.96,0.66,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+I2FQK7Q3JU,48,47660.00,41956.00,472,4.08,0.87,"High Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+ORNGVCCD2L,22,53734.00,113753.00,631,8.43,0.80,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+LSE4UTPAEL,52,57406.00,109322.00,439,11.03,0.25,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers","Policy Exception"
+MJ0XCJYJNN,40,134076.00,75208.00,615,13.16,0.66,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+LJYVQM3FKQ,46,19198.00,16132.00,669,3.78,0.68,"Low Risk",1,"Low Income","Small Loan","Middle Age Customers",Compliant
+JH3XGYDVKG,60,126835.00,157586.00,347,10.93,0.57,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+UJYY4LPOZW,28,132930.00,153620.00,783,20.31,0.53,"Low Risk",1,"High Income","Large Loan","Young Customers",Compliant
+PFVIH6MW2T,35,83909.00,40691.00,431,23.32,0.72,"High Risk",1,"High Income","Small Loan","Middle Age Customers",Compliant
+A4D4P4VQOL,64,125754.00,12900.00,757,19.16,0.16,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+BVN13ILGZD,29,55184.00,90621.00,587,20.58,0.50,"Medium Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+KI7BW598M0,26,93963.00,147823.00,595,21.94,0.43,"Medium Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+Z0CTBGAFOH,27,21833.00,69199.00,785,3.40,0.51,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+F2QNV6TNYX,61,146596.00,222080.00,564,23.95,0.27,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+ARDPLENPGM,34,120755.00,245717.00,816,15.98,0.30,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+Z4ZI2OS310,55,38306.00,102159.00,504,19.26,0.87,"Low Risk",1,"Middle Income","Medium Loan","Senior Customers",Compliant
+SHE6MHKOP5,24,114481.00,131097.00,804,16.74,0.41,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+DH5B9YZT9K,63,92711.00,95539.00,523,5.78,0.42,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+E8O3BJ8M14,30,118618.00,155743.00,333,3.10,0.59,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+WS1T8DPBMN,57,125474.00,45425.00,309,24.11,0.28,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+GFVYY784EB,59,93179.00,84983.00,777,15.68,0.16,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+R3IN3FWLP3,26,141696.00,224544.00,560,18.78,0.30,"Medium Risk",0,"High Income","Large Loan","Young Customers",Compliant
+2N28Q0TGJK,67,88378.00,128283.00,455,19.26,0.52,"High Risk",1,"High Income","Medium Loan","Senior Customers","Policy Exception"
+XSE2Q9FAXP,44,91816.00,44666.00,418,9.10,0.39,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+8O1QPWCWYC,19,44942.00,174008.00,368,14.23,0.21,"Low Risk",1,"Middle Income","Large Loan","Young Customers","Policy Exception"
+F9VVMJSNSS,22,32454.00,223883.00,629,20.27,0.72,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+82RVNE7HCB,46,105315.00,114102.00,794,12.20,0.64,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+QBCCODQNXL,54,145983.00,129773.00,386,15.25,0.64,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+SVFF2EJEHI,55,28647.00,91197.00,776,24.10,0.50,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+92A029ST5W,36,107236.00,11586.00,300,7.74,0.83,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+A1ZJ0CW07N,25,70217.00,94750.00,488,11.64,0.26,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+MCE5RJ46PH,65,101634.00,81049.00,328,7.77,0.27,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+QB3F1TK6ZD,62,47752.00,169871.00,615,4.37,0.40,"Medium Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+95TOWRWJNS,18,120840.00,13027.00,663,20.29,0.45,"Medium Risk",1,"High Income","Small Loan","Young Customers",Compliant
+XXQ3Y5LQM8,39,25825.00,76868.00,308,8.23,0.47,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+ZTP8MYTL1O,69,68411.00,97233.00,460,2.41,0.50,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+MVQ8AB3FGB,34,91967.00,130109.00,550,20.99,0.49,"Medium Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+5SA5A9MWNH,24,70364.00,216200.00,587,4.24,0.48,"Medium Risk",0,"High Income","Large Loan","Young Customers",Compliant
+9JVKIC51K1,42,86344.00,190810.00,560,22.61,0.19,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+4KNMFSZ37M,62,111857.00,87183.00,589,8.33,0.34,"Medium Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+A796CAOEKU,21,57197.00,109129.00,627,9.99,0.72,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+LZULZGBMO7,53,21299.00,62200.00,457,18.48,0.50,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+QSGPPNOK1C,23,19611.00,213162.00,809,19.94,0.71,"Low Risk",1,"Low Income","Large Loan","Young Customers",Compliant
+TJLJ7SECQM,48,73186.00,129563.00,507,7.43,0.67,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+L3CSI5EFXG,36,122569.00,80033.00,804,14.03,0.68,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+AIH41FXV88,61,81837.00,15021.00,703,4.68,0.71,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+U8D9DAIQQK,56,145713.00,120536.00,403,3.12,0.15,"Low Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+JW6HWTZDKD,44,108365.00,65041.00,448,6.83,0.37,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+VH80M08JGN,27,74053.00,80444.00,495,16.90,0.15,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+X7GAIIF6F5,43,48337.00,231671.00,830,15.90,0.38,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+XGJHQ3ZFJF,36,60638.00,128982.00,427,19.14,0.22,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+MCICISRLFQ,56,102674.00,84171.00,330,14.80,0.64,"High Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+P509TC0C3M,20,80452.00,14579.00,805,24.02,0.71,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+5T9ATKJLPH,62,41459.00,36346.00,824,19.03,0.87,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+7PC51ILPJS,30,73574.00,105980.00,732,19.66,0.57,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+MM5XEBU7ZI,67,112686.00,32856.00,506,18.19,0.17,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+ZHR67OVXO5,45,36866.00,48693.00,656,11.22,0.69,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+1ZA1URTWA2,37,44856.00,8748.00,753,20.61,0.43,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+HX4KFW5BTW,45,103663.00,222549.00,794,11.27,0.30,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+9GFTMACQVE,25,94821.00,174217.00,843,23.54,0.34,"Low Risk",1,"High Income","Large Loan","Young Customers",Compliant
+SLTT93Y2WB,58,22604.00,52746.00,450,15.14,0.52,"High Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+CHUJ7Q4IF6,56,129759.00,166120.00,796,8.05,0.47,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+VQP9PJXSMB,18,61818.00,31390.00,337,10.29,0.11,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+B5XGH0FQ1E,20,108799.00,189046.00,762,14.46,0.17,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+2A8VVBIX7N,30,48943.00,218349.00,620,5.93,0.73,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+BLPZP9DMUJ,45,20871.00,218799.00,634,15.67,0.73,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers",Compliant
+6TR6T425TP,66,144062.00,145109.00,581,16.73,0.76,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+L4ULRGZYFN,42,21265.00,99282.00,335,14.00,0.72,"High Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+A9H62592SC,50,53067.00,111292.00,462,21.07,0.28,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+DJ0GMZ0SIY,55,123249.00,178586.00,630,7.68,0.29,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+33ACHVS35U,23,92437.00,166994.00,604,15.82,0.72,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+90HDWHF5SJ,61,104085.00,65261.00,728,18.02,0.12,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+8X85XOWW0Q,62,53827.00,128033.00,598,19.37,0.29,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+GHQO4YSOVS,49,106471.00,160262.00,642,15.60,0.74,"Low Risk",1,"High Income","Large Loan","Middle Age Customers",Compliant
+S1LP78A9P8,62,96521.00,9538.00,777,17.17,0.65,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+7MAZ0NORP3,64,78932.00,186400.00,608,7.96,0.21,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+4F30REG6OC,38,87969.00,88490.00,324,22.66,0.72,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+07FQYR7LI4,33,102732.00,47841.00,787,12.07,0.46,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+1JVPT9WO7Z,38,132032.00,5437.00,314,17.37,0.25,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+2CP27VTPK3,28,77002.00,82577.00,653,16.17,0.35,"Medium Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+XV3HI1SVLY,54,113642.00,58679.00,569,19.85,0.15,"Low Risk",1,"High Income","Medium Loan","Senior Customers",Compliant
+9IYHR19PQ1,53,92113.00,125018.00,823,9.19,0.66,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+HEVNO6RDXX,52,148109.00,67427.00,648,14.21,0.75,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+1XZA858AK0,36,94862.00,74190.00,781,8.30,0.87,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+G6097FM7KL,37,116214.00,66346.00,776,7.53,0.39,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+2JTAV6VA06,35,64809.00,34647.00,696,6.77,0.81,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+KLWT74EBZS,64,125704.00,163780.00,508,10.67,0.53,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+26O6AEWA9J,58,86137.00,80907.00,673,20.61,0.15,"Low Risk",1,"High Income","Medium Loan","Senior Customers",Compliant
+G5GY8TKVO1,66,29151.00,248581.00,763,5.12,0.51,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+C1GXRGGOTR,31,25217.00,57199.00,714,12.07,0.35,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+O547ER79JS,32,63094.00,101109.00,403,9.05,0.82,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+34YX4HUW94,48,82128.00,104769.00,301,24.21,0.61,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+ZBOOTQ4870,18,109479.00,218820.00,312,20.69,0.83,"High Risk",1,"High Income","Large Loan","Young Customers","Policy Exception"
+3JDJ73960Y,20,86051.00,158886.00,334,6.91,0.54,"High Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+YWQ7SAE4N4,33,52794.00,127292.00,699,17.51,0.81,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+QD6F0NDU0G,40,85874.00,107717.00,480,2.79,0.28,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+S0IVCWQ67O,28,137644.00,62712.00,674,10.06,0.73,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+N5NPUCIXV6,29,64773.00,104508.00,522,23.97,0.63,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+LZBOU0SB55,27,148529.00,170260.00,613,22.31,0.84,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+KEDPVEC4Q9,49,139868.00,22175.00,729,8.67,0.68,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+NPLUYVYLAL,33,77424.00,119238.00,587,5.17,0.84,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+P9L4U6L4KB,25,80934.00,249065.00,364,11.51,0.85,"High Risk",1,"High Income","Large Loan","Young Customers","Policy Exception"
+F3XMK94G5Y,55,143526.00,155897.00,650,24.21,0.82,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+J8KDPTH8S9,29,96978.00,108525.00,418,14.12,0.18,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+2SZB6JY89D,41,102768.00,13009.00,448,4.87,0.11,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+M76N3EYBYB,45,63714.00,56950.00,347,14.18,0.23,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+667LCFWAML,25,92519.00,143101.00,497,3.35,0.28,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+CKYU6HQ5CS,45,140979.00,166309.00,697,5.71,0.45,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+XJ3I7E8RMB,53,117017.00,161694.00,499,7.08,0.35,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+TU6BEZ9IT1,43,47632.00,160079.00,365,11.07,0.81,"High Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+FR62UCAPU9,25,143591.00,245032.00,319,5.98,0.41,"Low Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+WWU7YMGODJ,67,83790.00,232334.00,845,23.65,0.65,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+WC18CXDEQA,45,146632.00,72902.00,839,3.98,0.78,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+P0N8T0L3V4,45,143041.00,114534.00,732,9.66,0.22,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+T32ZCPKZPG,54,46207.00,214263.00,582,11.07,0.74,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+HLZYYBI0DV,58,52081.00,48043.00,593,23.45,0.25,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+HMVT02HG9C,53,135175.00,182663.00,474,23.93,0.26,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+6CUKN44RX2,44,85831.00,214662.00,749,5.29,0.13,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+FQTGEG3E5C,34,67581.00,160023.00,583,11.52,0.84,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+6DXSUN6BJH,26,138475.00,225937.00,495,20.16,0.60,"High Risk",1,"High Income","Large Loan","Young Customers","Policy Exception"
+BGQUWBWTPZ,50,41553.00,124863.00,340,10.29,0.15,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+4E5Z8UDYI8,37,57716.00,246815.00,713,23.45,0.90,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+LAELVCWEOV,30,117642.00,76263.00,819,7.59,0.65,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+NXUGONSCVU,45,90796.00,97171.00,736,20.93,0.51,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+Q54ZEJXO3N,65,97232.00,149339.00,373,24.79,0.88,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+SXPN7MZ9S1,46,55412.00,42767.00,576,20.00,0.85,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+RBZXHZFK8C,30,47135.00,129834.00,546,9.18,0.48,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+1XE58WB7LK,63,106724.00,27824.00,395,20.37,0.59,"High Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+XNRK83ZR6I,52,105415.00,96009.00,844,12.94,0.89,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+QF7N49LCOY,23,104341.00,51096.00,334,17.35,0.22,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+82ARHQQ5X3,35,30091.00,29306.00,441,18.36,0.51,"High Risk",1,"Middle Income","Small Loan","Middle Age Customers",Compliant
+MP9YDB6UIQ,68,40264.00,211100.00,783,24.06,0.18,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+AYFCKBIO62,22,72962.00,46813.00,743,23.60,0.60,"Low Risk",0,"High Income","Small Loan","Young Customers",Compliant
+CHBOAIQUBE,64,58410.00,50769.00,726,23.10,0.75,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+QP27K95N03,42,83631.00,163205.00,585,20.51,0.23,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+9QEV8OD47C,19,79808.00,52498.00,567,17.37,0.44,"Medium Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+L6MQZUEANL,27,36511.00,47755.00,579,7.02,0.68,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+Y2YJNJ1WPZ,47,15680.00,180592.00,324,7.36,0.58,"High Risk",1,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+NQS3S0KOCY,67,73442.00,50302.00,391,20.15,0.22,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+7JB07CK2KN,62,44530.00,197209.00,396,9.38,0.19,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+QW09CM9FR5,22,49162.00,99128.00,487,11.41,0.48,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+WA7PW7HQD5,50,57785.00,72655.00,495,3.13,0.13,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+N7EZVNI7HA,18,87322.00,45345.00,470,12.40,0.85,"High Risk",0,"High Income","Small Loan","Young Customers",Compliant
+A5C8AZ9ORQ,35,47163.00,116882.00,380,15.86,0.75,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+WVA4M94KWU,49,52116.00,56003.00,544,22.35,0.52,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+WVBRK1XRQ8,64,79437.00,222086.00,644,19.08,0.55,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+RNVTGVYAHD,66,53677.00,6303.00,739,19.93,0.46,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+RRCUD2B5G6,28,48015.00,71220.00,838,10.26,0.58,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+VH5WBMTWXS,38,55756.00,68234.00,586,14.24,0.50,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+INFUDIJ98W,43,141475.00,102656.00,472,12.86,0.40,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+UVJGDO37AS,42,124356.00,59306.00,580,16.07,0.18,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+X2XZE6US84,39,88630.00,211642.00,482,18.25,0.14,"Low Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+OJ6JOXCPEV,44,57907.00,52837.00,742,16.30,0.24,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+LVOHK0WJCS,66,95584.00,17103.00,651,20.46,0.83,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+G5RZYYS1VE,30,111951.00,128924.00,571,14.64,0.83,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+EB2K9NB6U5,50,109753.00,12255.00,705,24.80,0.64,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+BFMVE3PSU7,51,48730.00,129747.00,644,7.19,0.42,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+LDTDW3P2WJ,58,120105.00,33481.00,357,9.10,0.10,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+7FXWZ961DJ,52,82693.00,175342.00,652,4.25,0.64,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+L1FAXHEYLL,18,44561.00,161559.00,489,13.18,0.32,"Low Risk",0,"Middle Income","Large Loan","Young Customers","Policy Exception"
+UUBV6A9UCQ,38,125893.00,130411.00,464,8.25,0.75,"High Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+L4046DB8T4,65,42267.00,45025.00,502,14.57,0.64,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+GCKJ2DZWT8,23,134044.00,55689.00,337,24.71,0.13,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+LT7YZPQNH2,45,136240.00,176245.00,767,17.09,0.58,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+TM1JYKMGPC,34,50507.00,215386.00,553,13.72,0.54,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+BIJ33RK9UP,22,60971.00,230813.00,818,8.07,0.32,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+WU1IYZ7N2J,48,61663.00,63615.00,529,12.68,0.42,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+WRQCZFXM3D,22,85916.00,116026.00,365,12.67,0.15,"Low Risk",0,"High Income","Medium Loan","Young Customers","Policy Exception"
+MXJ3CYE2KL,55,64817.00,110040.00,713,8.86,0.77,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+7C2BCFZDVJ,20,123797.00,61278.00,507,7.10,0.73,"Low Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+QNSVR3LAH5,40,98903.00,158273.00,384,6.98,0.69,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+WTJD24BS9Q,54,126649.00,6974.00,776,16.64,0.17,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+JFBGM2AAM1,54,55006.00,131307.00,738,12.50,0.41,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+KZRM5KJGIF,27,147407.00,118919.00,709,7.07,0.47,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+LJSA4K5H5N,27,22526.00,113973.00,363,7.13,0.54,"High Risk",0,"Low Income","Medium Loan","Young Customers","Policy Exception"
+KNKGIES0K8,36,49690.00,122050.00,409,10.09,0.48,"Low Risk",1,"Middle Income","Medium Loan","Middle Age Customers","Policy Exception"
+3Y0CCVARYP,34,18806.00,91313.00,510,4.71,0.77,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+CWGNVHVQB2,38,32950.00,212861.00,727,13.42,0.83,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+Y9K72ZBBLE,31,17909.00,120897.00,694,23.73,0.85,"Low Risk",1,"Low Income","Medium Loan","Middle Age Customers",Compliant
+F15446REVP,26,121521.00,74913.00,423,9.84,0.26,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+T6G55LUJX0,63,34543.00,246500.00,450,14.44,0.66,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+BPG6VNEA0H,18,33522.00,42965.00,540,17.38,0.16,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+CUOI243XCI,68,85725.00,10203.00,704,20.82,0.16,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+7UVPYLN1L1,62,24165.00,98173.00,836,2.68,0.23,"Low Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+00XCUCQHRO,30,29979.00,116667.00,783,5.55,0.80,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+JJATNATR17,21,27533.00,205199.00,507,9.79,0.77,"Low Risk",1,"Low Income","Large Loan","Young Customers",Compliant
+IBJ0DV40R3,18,106233.00,64719.00,647,14.09,0.58,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+B2V7RV8XVW,66,105399.00,194713.00,428,9.91,0.26,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+CYRPL3ZRLZ,57,51459.00,172290.00,328,5.41,0.46,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+0IGJ9C9Y85,49,18026.00,167577.00,690,13.27,0.10,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers",Compliant
+VVH2SRSBMM,51,27932.00,234069.00,785,21.89,0.61,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+NPMI355AXQ,45,122415.00,53027.00,462,24.14,0.77,"High Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+3R4NFM7764,48,96537.00,182052.00,539,19.36,0.21,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+JCCHSAXEH1,25,71570.00,185526.00,531,16.10,0.57,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+E89SKDOFV1,56,130150.00,97042.00,519,13.35,0.79,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+G6JZDSMIP2,43,25940.00,123512.00,849,19.77,0.54,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+3M197HUJGU,51,148429.00,23289.00,603,9.92,0.79,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+BXW370X5JB,20,124823.00,151232.00,416,24.32,0.17,"Low Risk",1,"High Income","Large Loan","Young Customers","Policy Exception"
+04WX2OZWL2,67,81752.00,164618.00,718,3.76,0.45,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+OPIKDZAV2B,29,64941.00,200048.00,497,24.47,0.34,"Low Risk",1,"Middle Income","Large Loan","Young Customers","Policy Exception"
+Y60WAGDF8J,18,65143.00,106510.00,591,23.29,0.28,"Low Risk",1,"Middle Income","Medium Loan","Young Customers",Compliant
+41T18LH91R,61,61728.00,170894.00,350,20.53,0.80,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+HQVCXRLLPX,22,31338.00,49030.00,756,6.62,0.70,"Low Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+WPL4G6BWTM,47,130736.00,106283.00,806,24.03,0.80,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+57OH00PNFV,47,132650.00,19145.00,425,22.29,0.59,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+TJU8TQJV15,34,72252.00,162861.00,314,12.53,0.49,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+TWTM4VH7AZ,65,65900.00,228830.00,771,9.22,0.67,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+QUF1SUGQY3,64,68381.00,74812.00,567,17.60,0.65,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+D18MVIJHEV,40,120344.00,56710.00,717,7.36,0.16,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+5TASA7ODWK,32,97286.00,195075.00,743,11.91,0.79,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+IJ0POC7RU5,54,63152.00,236760.00,381,17.87,0.37,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+TPDDR5A5RU,38,49480.00,150173.00,630,17.59,0.45,"Medium Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+W4WU1VCZ05,31,16294.00,76789.00,566,18.68,0.59,"Low Risk",1,"Low Income","Medium Loan","Middle Age Customers",Compliant
+IW7RWOQ6LX,19,67326.00,9610.00,644,22.40,0.31,"Medium Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+DZYNJXPC2S,28,56921.00,174949.00,627,20.98,0.54,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+01LICMLDD1,68,45048.00,55880.00,570,2.70,0.65,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+4AXJVR88K6,56,112902.00,90851.00,695,9.83,0.58,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+GZQLWF1W7M,55,147049.00,63786.00,635,11.23,0.60,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+5KQIH586TO,51,120208.00,52698.00,604,17.07,0.80,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+VSPUV00Q8C,55,145443.00,5695.00,549,2.70,0.66,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+X0YBD89HON,67,64624.00,115536.00,593,16.93,0.42,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+U5XT9KI5TZ,51,57092.00,228547.00,376,7.63,0.75,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+ARP38C897J,35,132208.00,98136.00,473,18.36,0.21,"Low Risk",1,"High Income","Medium Loan","Middle Age Customers",Compliant
+TNTUTKPAVM,47,19313.00,202375.00,455,22.27,0.28,"Low Risk",0,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+FHXQGYUL5Y,32,15584.00,158198.00,616,23.36,0.80,"Low Risk",1,"Low Income","Large Loan","Middle Age Customers",Compliant
+WAGPWAVMXF,44,74635.00,236357.00,810,11.81,0.82,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+GNVVB6JG9N,68,102833.00,190723.00,381,23.06,0.10,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+NI8RVVRXNV,51,38174.00,89629.00,809,16.99,0.45,"Low Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+7BX8VIMBQH,69,50383.00,191163.00,527,22.12,0.25,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+93ONS23O5Y,55,144850.00,181736.00,701,9.24,0.82,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+W4NA5AIAFK,50,124259.00,156838.00,530,7.82,0.80,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+IK81SLGAUS,41,105153.00,218518.00,739,15.70,0.62,"Low Risk",1,"High Income","Large Loan","Middle Age Customers",Compliant
+B50ERLVGZQ,32,148189.00,205917.00,398,22.45,0.26,"Low Risk",1,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+VDMB36J68B,47,20253.00,14928.00,834,7.67,0.41,"Low Risk",0,"Low Income","Small Loan","Middle Age Customers",Compliant
+Z3289L2NYM,59,25036.00,196514.00,496,13.54,0.21,"Low Risk",0,"Low Income","Large Loan","Senior Customers","Policy Exception"
+9KXE58IPJ6,68,101582.00,220697.00,563,18.27,0.39,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+SUTUBHPG0W,34,113965.00,38225.00,535,19.90,0.75,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+U5CVH2QNKD,22,43612.00,13481.00,630,24.46,0.41,"Medium Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+1OQ59IHI7R,46,78172.00,238537.00,565,9.98,0.47,"Medium Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+KTZ2WEQIAF,21,22313.00,70105.00,761,24.79,0.33,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+05U857DCS0,27,32512.00,249656.00,694,5.88,0.65,"Low Risk",0,"Middle Income","Large Loan","Young Customers",Compliant
+GBDI7BJKRQ,34,55207.00,85918.00,598,15.83,0.41,"Medium Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+4JDPFDEGAA,27,83958.00,81253.00,648,3.29,0.36,"Medium Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+BNYXKSSZ9G,34,75241.00,191776.00,757,20.52,0.84,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+EUEZ77NDQU,37,144295.00,52486.00,664,23.02,0.26,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+TRSSWS586N,41,121235.00,237736.00,467,17.43,0.29,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+35A5JXBRRS,22,33703.00,191417.00,580,14.85,0.69,"Low Risk",1,"Middle Income","Large Loan","Young Customers",Compliant
+PF5NNK7L8B,51,118540.00,113482.00,482,21.58,0.54,"High Risk",1,"High Income","Medium Loan","Senior Customers","Policy Exception"
+UKANRJBY7U,23,33293.00,128401.00,599,16.05,0.21,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+JSTGB8GFBM,19,20140.00,10218.00,466,21.57,0.48,"Low Risk",0,"Low Income","Small Loan","Young Customers",Compliant
+AKYVU3LVY1,30,82135.00,199508.00,369,4.92,0.85,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+8Z61WNMZ9C,60,71107.00,110862.00,714,15.34,0.21,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+TXUG8OPZAG,60,138556.00,125596.00,394,24.77,0.21,"Low Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+K6OD3IYNVI,65,78317.00,132560.00,493,5.26,0.67,"High Risk",0,"High Income","Medium Loan","Senior Customers","Policy Exception"
+LYZLWQT4EV,28,138315.00,199456.00,660,23.08,0.28,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+HE4UUXS8QC,68,69465.00,25216.00,630,23.00,0.29,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+F5C0EHO7IE,64,43183.00,16810.00,730,7.73,0.32,"Low Risk",0,"Middle Income","Small Loan","Senior Customers",Compliant
+MW8V9J1VWK,40,133009.00,98993.00,714,18.66,0.32,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+H22RS6N25R,33,21547.00,231309.00,450,22.27,0.62,"High Risk",1,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+QB5DYXAWI1,48,106736.00,9741.00,739,9.46,0.58,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+CFGL5OSWUS,28,83296.00,33184.00,760,22.87,0.37,"Low Risk",1,"High Income","Small Loan","Young Customers",Compliant
+L0NZHHGH57,33,72730.00,99840.00,573,24.43,0.18,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+7XYH679AJD,25,69824.00,94071.00,352,2.88,0.71,"High Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+U23XOGDV2W,21,122350.00,214060.00,682,20.48,0.63,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+HK92S2CBH3,57,33731.00,176184.00,385,9.10,0.48,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+5XXHTZ4ZMD,21,123946.00,5968.00,399,10.28,0.56,"High Risk",0,"High Income","Small Loan","Young Customers",Compliant
+GSQYTWXI7E,42,140684.00,181767.00,736,18.49,0.27,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+QQC3LWLAKQ,20,61238.00,44100.00,317,11.57,0.58,"High Risk",0,"Middle Income","Small Loan","Young Customers",Compliant
+88GUR65LU1,49,132905.00,123435.00,701,5.57,0.37,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+VZCEZ9VCCZ,20,24864.00,137694.00,467,12.24,0.81,"High Risk",0,"Low Income","Medium Loan","Young Customers","Policy Exception"
+QTBYVOZRMY,44,149366.00,44195.00,699,24.77,0.79,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+UFSF5UJXDG,46,58666.00,41878.00,845,17.14,0.64,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+GLCSAMG5XY,49,29557.00,126735.00,390,22.37,0.39,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers","Policy Exception"
+TUBKRR1D19,67,116735.00,224636.00,424,12.11,0.47,"Low Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+0L3UWPQ1D6,68,20962.00,164201.00,576,19.74,0.19,"Low Risk",0,"Low Income","Large Loan","Senior Customers",Compliant
+R4U2GUM4UO,36,80265.00,171786.00,482,15.80,0.71,"High Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+U64QW87XLT,38,69016.00,151210.00,438,20.11,0.34,"Low Risk",1,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+XD9XA3FKOB,22,109858.00,221600.00,835,12.61,0.82,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+QDJQ38SRP2,35,118877.00,95683.00,694,15.94,0.15,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+C95SZGL3IT,45,55607.00,191450.00,376,13.83,0.83,"High Risk",0,"Middle Income","Large Loan","Middle Age Customers","Policy Exception"
+TA7TWPG881,59,49762.00,66507.00,414,23.57,0.84,"High Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+26D7CJAFUH,39,50518.00,136883.00,525,10.88,0.64,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+KCRIIZ3NZC,38,104841.00,50014.00,764,16.32,0.48,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+IL0M8DLX30,23,30563.00,66027.00,594,23.36,0.88,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+H6ZC6DCOET,18,127555.00,148097.00,374,22.50,0.73,"High Risk",1,"High Income","Medium Loan","Young Customers","Policy Exception"
+CCBLKWDS4N,22,146381.00,77749.00,641,10.63,0.36,"Medium Risk",1,"High Income","Medium Loan","Young Customers",Compliant
+5FLLJ9MA24,58,99787.00,144128.00,823,24.02,0.56,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+K6FL1D23A6,29,69834.00,196763.00,356,24.10,0.71,"High Risk",0,"Middle Income","Large Loan","Young Customers","Policy Exception"
+C4SAB17P6K,43,63150.00,98444.00,478,3.73,0.34,"Low Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+NGELKTKQN7,63,143137.00,173110.00,371,22.77,0.72,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+L1SS1M1C1H,51,22381.00,115217.00,506,17.13,0.45,"Medium Risk",0,"Low Income","Medium Loan","Senior Customers",Compliant
+97PY5SUM4K,66,112670.00,199404.00,511,22.93,0.15,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+LJUAT6TT18,31,52779.00,173822.00,557,16.41,0.22,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+4TOAWMTB3W,43,86693.00,58503.00,471,24.09,0.12,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+YPCCAMUZ7I,62,53695.00,173530.00,422,22.23,0.73,"High Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+CT7W5H7FJA,44,40867.00,30539.00,441,21.04,0.12,"Low Risk",0,"Middle Income","Small Loan","Middle Age Customers",Compliant
+0ACA4XMUOH,26,102712.00,109976.00,713,24.67,0.23,"Low Risk",0,"High Income","Medium Loan","Young Customers",Compliant
+YHIPNYCDE4,43,108864.00,235310.00,421,21.62,0.28,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+KJPHLYHG9I,64,136859.00,247227.00,541,18.50,0.50,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+6XBWS72G1J,39,70426.00,249482.00,677,20.33,0.76,"Low Risk",0,"High Income","Large Loan","Middle Age Customers",Compliant
+8M9NOWLAWF,64,59084.00,219628.00,431,17.90,0.11,"Low Risk",0,"Middle Income","Large Loan","Senior Customers","Policy Exception"
+FVETMCYGAN,47,125385.00,100265.00,458,20.73,0.21,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers","Policy Exception"
+WOLETEP5SP,60,125630.00,12382.00,548,22.80,0.12,"Low Risk",0,"High Income","Small Loan","Senior Customers",Compliant
+9N1I4RXD0A,65,90313.00,174679.00,595,21.85,0.34,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+8KG6Q65Z4M,34,118316.00,22619.00,623,8.25,0.17,"Low Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+74AC1WB4AV,43,56892.00,65135.00,477,16.63,0.68,"High Risk",0,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+BKYD9MM52R,53,38685.00,186656.00,638,4.06,0.63,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+JM6KOYY3CA,18,51615.00,112648.00,615,23.78,0.88,"Low Risk",0,"Middle Income","Medium Loan","Young Customers",Compliant
+9B94S2MLMR,25,120331.00,170081.00,475,6.35,0.82,"High Risk",0,"High Income","Large Loan","Young Customers","Policy Exception"
+Q6DS4YPRER,66,136702.00,174093.00,555,14.31,0.79,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+P63YAV7QEC,52,128455.00,206465.00,651,16.01,0.73,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+G2SGBKLL2E,69,141746.00,227456.00,333,4.43,0.78,"High Risk",0,"High Income","Large Loan","Senior Customers","Policy Exception"
+QDP23VRT1B,32,16146.00,124336.00,570,13.64,0.22,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+6EWW4DM0UV,64,59709.00,235023.00,849,17.76,0.61,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+R915XIQXGY,39,26296.00,159406.00,447,3.19,0.61,"High Risk",1,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+VH4ILD12SW,31,17216.00,151972.00,364,11.33,0.41,"Low Risk",1,"Low Income","Large Loan","Middle Age Customers","Policy Exception"
+DU8Z16SPNZ,43,49123.00,114363.00,687,23.89,0.74,"Low Risk",1,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+KQ521RXUJZ,45,80452.00,219611.00,442,22.58,0.43,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+NXL0FXOQRY,40,131033.00,242889.00,423,3.01,0.46,"Low Risk",0,"High Income","Large Loan","Middle Age Customers","Policy Exception"
+7DXUPSO4JM,31,91547.00,145544.00,670,9.00,0.81,"Low Risk",0,"High Income","Medium Loan","Middle Age Customers",Compliant
+O4M0J3XI6Z,41,18715.00,77341.00,702,21.32,0.51,"Low Risk",0,"Low Income","Medium Loan","Middle Age Customers",Compliant
+8KWCX5NJ56,19,123823.00,33914.00,596,3.54,0.48,"Medium Risk",0,"High Income","Small Loan","Young Customers",Compliant
+WLCCT0Y727,62,135066.00,154293.00,569,6.26,0.46,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+JEA6ZNY0ZL,43,128575.00,16830.00,482,18.05,0.90,"High Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+7PI14IVBRQ,31,64116.00,99949.00,328,17.60,0.62,"High Risk",1,"Middle Income","Medium Loan","Middle Age Customers",Compliant
+2VXY9172WV,68,51648.00,96057.00,677,16.60,0.41,"Medium Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+FB1H6BWKKT,24,20695.00,143088.00,695,3.51,0.60,"Low Risk",0,"Low Income","Medium Loan","Young Customers",Compliant
+RYVI9GCE59,20,124106.00,190242.00,775,11.06,0.53,"Low Risk",0,"High Income","Large Loan","Young Customers",Compliant
+JD9QS4FGHL,64,65658.00,64576.00,335,18.33,0.86,"High Risk",0,"Middle Income","Medium Loan","Senior Customers",Compliant
+4LG2JZC9IB,40,69040.00,175583.00,654,17.62,0.10,"Low Risk",0,"Middle Income","Large Loan","Middle Age Customers",Compliant
+5661017KFL,63,70285.00,189741.00,636,16.04,0.41,"Medium Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+31SJTMWFCT,60,87805.00,124827.00,842,9.11,0.66,"Low Risk",0,"High Income","Medium Loan","Senior Customers",Compliant
+R738Q1I3JW,64,129745.00,214172.00,843,9.00,0.59,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
+2A7OI5RIMX,62,58712.00,188494.00,700,10.62,0.78,"Low Risk",0,"Middle Income","Large Loan","Senior Customers",Compliant
+HUO1LPG2Q3,35,108703.00,44268.00,604,3.94,0.36,"Medium Risk",0,"High Income","Small Loan","Middle Age Customers",Compliant
+04ZFSPHW91,55,146660.00,223015.00,737,7.67,0.61,"Low Risk",0,"High Income","Large Loan","Senior Customers",Compliant
